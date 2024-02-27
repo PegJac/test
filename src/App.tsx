@@ -8,6 +8,7 @@ function App() {
         <p>{`<3`}</p>
         <p>:O</p>
         <p>:))</p>
+        <p>:))</p>
       </header>
     </div>
   );
