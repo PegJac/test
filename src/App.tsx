@@ -7,6 +7,7 @@ function App() {
         <p>S:))</p>
         <p>{`<3`}</p>
         <p>:O</p>
+        <p>:))</p>
       </header>
     </div>
   );
